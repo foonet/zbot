@@ -1,7 +1,5 @@
 Zmeubot - module for ZNC (v0.1)
 ===
-- Your donations pay for projects, staff, servers and protective infrastructure
-- BTC: 1zmeu5BeWBprWyPv5ntNZKR7uThXaG9ic
 
 **PLEASE, READ THE FUCKING MANUAL ! :)**
 
@@ -10,7 +8,7 @@ Zmeubot - module for ZNC (v0.1)
 
 LICENSE
 ===
-The MIT License (MIT) Copyright (c) 2016 - zmeu
+The MIT License (MIT) Copyright (c) 2016
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
